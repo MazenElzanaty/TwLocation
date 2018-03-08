@@ -13,7 +13,7 @@ Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/8
 - Tweet Latitude and Longitude
 - Google Maps link to Latitude and Longitude
 
-### Usage
+## Usage
 TwLocation should work on all Linux distros running Python 2.7
 First, clone it by entering the following command in the terminal
 ``` bash
