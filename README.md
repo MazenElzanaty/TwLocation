@@ -17,7 +17,7 @@ Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/8
 TwLocation should work on all Linux distros running Python 2.7
 First, clone it by entering the following command in the terminal
 ``` bash
-git clone https://github.com/UltimateHackers/XSStrike
+git clone https://github.com/MazenElzanaty/TwLocation.git
 ```
 Now naviagte to TwLocation directory
 ``` bash
