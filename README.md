@@ -40,7 +40,7 @@ Now you can run TwLocation
 python TwLocation.py
 ```
 
-##Video
-[![YouTube Video URL](http://i3.ytimg.com/vi/VuCOE8PwJDs/maxresdefault.jpg)](https://www.youtube.com/watch?v=VuCOE8PwJDs)
+## Video
+[![Thumbnail](https://img.youtube.com/vi/VuCOE8PwJDs/0.jpg)](https://www.youtube.com/watch?v=VuCOE8PwJDs)
 
 
