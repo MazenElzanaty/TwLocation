@@ -19,7 +19,7 @@ First, clone it by entering the following command in the terminal
 ``` bash
 git clone https://github.com/MazenElzanaty/TwLocation.git
 ```
-Now naviagte to TwLocation directory
+Now navigate to TwLocation directory
 ``` bash
 cd TwLocation
 ```
